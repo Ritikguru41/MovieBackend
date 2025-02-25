@@ -4,7 +4,7 @@ import userRouter from "./routes/user-router.js";
 import adminRouter from "./routes/admin-router.js";
 import movieRouter from "./routes/movie-router.js";
 // import bookingRouter from "./routes/booking-router.js";
-import bookingRouter from "./routes/Booking-router.js";
+import bookingRouter from "./routes/booking-router.js";
 import InvoiceRouter from "./routes/invoice-router.js";
 import Invoice from "./modules/invoice.js";
 import cors from "cors";
